@@ -64,6 +64,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
  decrypt(encryptedMessage, key, decryptedMessage, messageLength);
  printf("Decrypted Message: %s\n", decryptedMessage);
  return 0;
+
  }
  ```
 ## Output:
